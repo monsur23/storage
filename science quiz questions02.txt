@@ -1,0 +1,80 @@
+1.Which is the main gas that makes up the Earth's atmosphere?
+=nitrozen
+2.At what temperature are Celsius and Fahrenheit equal?
+=-40
+3.How many vertebrae does the average human possess?
+=33
+4.What is the only letter not to appear on the periodic table?
+=J
+5.What do the letters in the word laser stand for?
+=Light Amplification by Stimulated Emission of Radiation
+6.What does USB stand for?
+=Universal Serial Bus
+7.In which year did the Apollo 13 space mission take place?
+=1970
+8.What metal is the best conductor of electricity?
+=Silver
+9.Who discovered the theory of relativity?
+=Albert Einstien
+10.The sky appears blue due to its?
+=Scattering of Light
+11. During summer, water kept in an earthen pot becomes cold due to?
+=Evaporation
+12.Bronze is an alloy of?
+=Copper and Tin
+13.The major component of Honey is?
+=Fructose 
+14.The velocity of sound is minimum in?
+=Vacuum
+15. A satellite is kept moving in its orbit around the Earth due to its?
+=Centripetal Force
+16.Who is the creator of the periodic table? 
+=Dmitri Mendeleev. 
+17.HCL is also known as?
+= muriatic acid
+18.Lightning hotter than the surface of the sun: true or false?
+=True
+19.Which is the only body part that is fully grown from birth? 
+=Eye Ball
+20. Which Hormone is called the life saving hormone of Human ?
+=Adrenal
+21.What is air Pressure Call?
+=Atmospheric Pressure
+22.Which is the most explosive gas in coal mine ?
+=Methane
+23.On what principle does the hydrogen bomb work ? 
+=nuclear fusion
+24.What Reason to Rain drops spherical ?
+=Surface tension
+25.Which color of light shows maximum deviation when passing through a Prism ?
+=violet
+26.On what principle does optical fiber Work ?
+=total internal reflection
+27.What is the process by which an unstable atomic nucleus releases energy?
+=Radioactivity
+28.Which gas is known as laughing gas?
+=Nitrous oxide (N2O)
+29.Which type of electromagnetic radiation has the highest energy?
+=Gamma rays
+30.Which quantum number gives the shape of the orbital?
+= Azimuthal quantum number.
+31.Sound travells faster in air than water(true or false)
+=true
+32.What is the shape of p-orbital?
+=Dumbell shape
+33.Who was the first person to design models of flying machine?
+=Leonardo da Vinci.
+34. Who said, “All falling bodies, irrespective of their size, descend at the same speed”?
+=Galileo Galilei
+35.which is the longest grass in the world?
+=Bamboo
+36. What does a barometer measure?
+=Air pressure.
+37.which is the hottest planet in the solar system?
+=venus
+38.What is the mass of moon?
+=7.3 × 10^22 Kg
+39.Who discovered law of electrolysis?
+=Michael Faraday
+40.in which year Srinivasa Ramanujan was born?
+=1887
